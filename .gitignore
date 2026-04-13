@@ -1,0 +1,18 @@
+# Virtual Environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Django stuff
+db.sqlite3
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+
+# Temporary files
+*.swp
